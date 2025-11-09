@@ -76,16 +76,42 @@ I explore everything from **device physics** and **circuit analysis** to **FPGA 
 
 ## 🧩 Skills
 ### 🧠 Technical
-- **VLSI Tools:** Cadence Virtuoso, Xilinx Vivado, eSim, LTSpice, KiCad, Ngspice  
-- **Programming:** Verilog, C, C++, Python  
-- **Hardware:** Arduino, FPGA Prototyping  
-- **EDA & Simulation:** Circuit Simulation, Digital Logic Design  
+<div align="center">
+
+[![VLSI](https://img.shields.io/badge/VLSI%20Design-ff69b4?style=for-the-badge&logo=semanticscholar&logoColor=white)]()
+[![Cadence Virtuoso](https://img.shields.io/badge/Cadence%20Virtuoso-ff005d?style=for-the-badge&logo=c&logoColor=white)]()
+[![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-ea4c89?style=for-the-badge&logo=xilinx&logoColor=white)]()
+[![eSim](https://img.shields.io/badge/eSim-9cf?style=for-the-badge&logo=python&logoColor=black)]()
+[![Ngspice](https://img.shields.io/badge/Ngspice-8A2BE2?style=for-the-badge&logo=electron&logoColor=white)]()
+[![LTSpice](https://img.shields.io/badge/LTSpice-8A2BE2?style=for-the-badge&logo=ltspice&logoColor=white)]()
+
+</div>
+
+### 💻 Programming
+<div align="center">
+
+[![C](https://img.shields.io/badge/C%20Language-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)]()
+[![Verilog](https://img.shields.io/badge/Verilog-FF6F61?style=for-the-badge&logo=verilog&logoColor=white)]()
+
+</div>
+
+### ⚙️ Tools
+<div align="center">
+
+[![Arduino IDE](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)]()
+[![FPGA](https://img.shields.io/badge/FPGA-4B0082?style=for-the-badge&logo=fpga&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
+[![Proteus](https://img.shields.io/badge/Proteus-1E90FF?style=for-the-badge&logo=proteus&logoColor=white)]()
+
+</div>
 
 ### 💬 Soft Skills
-- Team Collaboration  
-- Problem Solving & Debugging  
-- Technical Documentation  
-- Research & Analytical Thinking  
+- 🤝 Team Collaboration  
+- 🧩 Problem Solving & Debugging  
+- 📘 Technical Documentation  
+- 🔍 Research & Analytical Thinking  
 
 ---
 
@@ -100,17 +126,21 @@ I explore everything from **device physics** and **circuit analysis** to **FPGA 
 
 ---
 
-## 📚 Workshops & Events
-- **Analog Design using Cadence (SiCrest Semiconductors)** – 2025  
-- **Catalyst’25 – CMOS Logic Design Workshop (Sri Eshwar College)**  
-- **IEEE Xplore Research Session (EBSCO)** – Research tools training  
-- **Machine Learning & Data Science Workshop (KIRIT’s)** – 2024  
+## 🧠 Workshops & Events
+🎯 **Analog Design using Cadence (SiCrest Semiconductors)** – 2025  
+💡 **Catalyst’25 – CMOS Logic Design Workshop (Sri Eshwar College)**  
+📘 **IEEE Xplore Research Session (EBSCO)** – Research tools training  
+🤖 **Machine Learning & Data Science Workshop (KIRIT’s)** – 2024  
 
 ---
 
-## 💻 Portfolio & Contact
-🔗 **GitHub:** [github.com/pravin2007-ctrl](https://github.com/pravin2007-ctrl)  
-📧 **Email:** pravin.a2024ece@sece.ac.in  
+## 🌐 Portfolio & Contact
+<div align="center">
+  <a href="https://github.com/pravin2007-ctrl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:pravin.a2024ece@sece.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/pravin-a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
+
 📞 **Phone:** +91 9345802099  
 
 ---
