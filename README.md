@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/722835/screenshots/4101589/media/2e8b66a6b0da5c530b8c98669fddc3a8.gif" width="100%" alt="VLSI Semiconductor Banner" />
+</div>
+
 # 👋 Hi, I'm **PRAVIN A**  
 **He/Him**  
 🎓 *B.E. Electronics and Communication Engineering @ Sri Eshwar College of Engineering*  
@@ -11,6 +15,10 @@ Aspiring **Semiconductor and VLSI Engineer** passionate about **Digital IC Desig
 I explore everything from **device physics** and **circuit analysis** to **FPGA prototyping** and **EDA tools**.  
 
 💡 My goal is to contribute to innovations in **semiconductor and next-generation chip technologies**.
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*v3A07hNUDd0nSTZ5RVI9Bg.gif" width="80%" alt="Semiconductor Design Animation" />
+</div>
 
 ---
 
@@ -138,7 +146,7 @@ I explore everything from **device physics** and **circuit analysis** to **FPGA 
 <div align="center">
   <a href="https://github.com/pravin2007-ctrl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:pravin.a2024ece@sece.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/pravin0451p"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/pravin-a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 📞 **Phone:** +91 9345802099  
